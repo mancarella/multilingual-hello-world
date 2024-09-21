@@ -1,8 +1,9 @@
+# multilingual_hello_world.py
+# this is a copy of multilingual_hello_world_tk.py (local),
+# linking it to GitHub
+
 import tkinter as tk
 
-# multilingual_hello_world.py
-# this is a copy of multilingual_hello_world_tk.py,
-# trying to link it to GitHub
 
 class MyGUI:
 
@@ -50,4 +51,4 @@ class MyGUI:
 
 MyGUI()
 
-# Dobby Dobson, Carry That Weight
+# musical inspiration: Dobby Dobson, Carry That Weight
